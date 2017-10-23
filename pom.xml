@@ -9,7 +9,7 @@
 
 
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src/main/scala</sourceDirectory>
     <resources>
       <resource>
         <directory>src</directory>
